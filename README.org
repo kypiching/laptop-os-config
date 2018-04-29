@@ -2,3 +2,16 @@
 
 * Introduction
 This repo is contains all configuare files of `OS` on my *laptop*.
+
+** Content
+
+- [[https://github.com/kypiching/laptop-os-config/blob/master/.Xdefaults][Xdefaults]]
+- [[https://github.com/kypiching/laptop-os-config/blob/master/.Xresources][Xresources]]
+- [[https://github.com/kypiching/laptop-os-config/blob/master/.Xmodmap][Xmodmap]]
+
+- [[https://github.com/kypiching/laptop-os-config/blob/master/.xinitrc][Xinitrc]]
+- [[https://github.com/kypiching/laptop-os-config/blob/master/.xprofile][Xprofile]]
+
+- [[https://github.com/kypiching/laptop-os-config/blob/master/.zshrc][Zshrc]]
+
+*More Continue*
