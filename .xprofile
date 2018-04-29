@@ -1,0 +1,13 @@
+xrandr --output eDP-1 --brightness 0.5
+
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE-fcitx
+export XMODIFIERS="@im=fcitx"
+
+feh --bg-fill ~/image/wallpaper/bl2light.png
+
+xsetroot -cursor_name right_ptr
+setxkbmap -option ctrl:swapcaps
+
+lstatus &
+fcitx &
