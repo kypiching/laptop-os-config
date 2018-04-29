@@ -1,0 +1,6 @@
+URXVT*background: black
+URXVT*foreground: white
+URXVT*cursorColor: yellow
+URXVT*faceName: WenQuanYi Zen Hei Mono
+URXVT*faceSize: 10
+URXVT*selectToClipboard: true
