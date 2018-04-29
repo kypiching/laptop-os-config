@@ -1,4 +1,4 @@
 #+TITLE: Laptop-OS-Config
 
-# Introduction
+* Introduction
 This repo is contains all configuare files of `OS` on my *laptop*.
