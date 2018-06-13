@@ -17,5 +17,5 @@ fi
 #xsetroot -cursor_name right_ptr
 #setxkbmap -option ctrl:swapcaps
 
-#lstatus &
+#simplestatus &
 #exec fcitx &
