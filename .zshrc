@@ -68,7 +68,7 @@ alias cp14='clang++ -std=c++14 -Wall -Os'
 alias cp17='clang -std=c++17 -Wall -Os'
 
 alias gc99='gcc -std=c99 -Wall -Wextra -Os'
-alias gc11='gcc -std=c11 -Wall -Wextra  -Os'
+alias gc11='gcc -std=c11 -Wall -Wextra -Os'
 
 alias gp11='g++ -std=c++11 -Wall -Os'
 alias gp14='g++ -std=c++14 -Wall -Os'
